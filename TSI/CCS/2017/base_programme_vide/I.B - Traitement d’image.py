@@ -1,6 +1,10 @@
+# -*- coding: utf-8 -*-
+
 import math
 import numpy as np
 import random
+
+## NE RIEN CHANGER AU DESSUS DE CE COMMENTAIRE ---------------------------------
 
 # I.B – Traitement d’image
 
