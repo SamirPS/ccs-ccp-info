@@ -13,6 +13,8 @@ Pour les concours, basez-vous uniquement sur les informations fournies par CCP e
 
 L'épreuve est d'une durée de 3 heures.
 
+Langages utilisés : Python 3, SQL
+
 ### Historique des sujets :
 
 - [CCS 2018](https://www.concours-centrale-supelec.fr/CentraleSupelec/2018/Multi/sujets/I003.pdf "Sujet CCS 2018") : Simulation de la cinétique d’un gaz parfait
@@ -26,6 +28,8 @@ L'épreuve est d'une durée de 3 heures.
 ## Concours Commun Polytechniques
 
 L'épreuve est d'une durée de 3 heures.
+
+Langages utilisés : Python 3 (et Scilab dans les anciens sujets)
 
 ### Historique des sujets :
 
