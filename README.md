@@ -1,7 +1,9 @@
-# Épreuve d'Informatique
+# Épreuve d'Informatique - TSI
 
-**/!\ ATTENTION : ** Les informations que nous apportons ici sont données ici à caractère purement informatif.
-Pour les concours, basez-vous uniquement sur les informations fournies par CCP et CCS :
+**/!\ ATTENTION /!\ :**
+
+**Les informations que nous apportons sont données ici à titre purement informatif.
+Pour les concours, basez-vous uniquement sur les informations fournies par CCP et CCS :**
 
 [Site de CCP](https://ccp.scei-concours.fr "Site de CCP")
 
