@@ -1,4 +1,4 @@
-# Épreuve d'Informatique
+# Épreuve d'Informatique - TSI
 
 **/!\ ATTENTION : Les informations que nous apportons ici sont données ici à caractère purement informatif.
 Pour les concours, basez-vous uniquement sur les informations fournies par CCP et CCS :**
