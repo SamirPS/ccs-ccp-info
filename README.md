@@ -9,7 +9,7 @@ Pour les concours, basez-vous uniquement sur les informations fournies par CCP e
 
 [Site de CCS](https://www.concours-centrale-supelec.fr/ "Site de CCS")
 
-Avancement des corrigés :
+Status des corrections :
 
 - [:heavy_check_mark:] Terminée
 
