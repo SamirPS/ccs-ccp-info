@@ -1,6 +1,6 @@
 # Épreuve d'Informatique - TSI
 
-**/!\ ATTENTION /!\ :**
+**:warning: ATTENTION :warning: :**
 
 **Les informations que nous apportons sont données ici à titre purement informatif.
 Pour les concours, basez-vous uniquement sur les informations fournies par CCP et CCS :**
@@ -25,13 +25,13 @@ Langages utilisés : Python 3, SQL
 
 ### Historique des sujets :
 
-- [CCS 2018](https://www.concours-centrale-supelec.fr/CentraleSupelec/2018/Multi/sujets/I003.pdf "Sujet CCS 2018") : Simulation de la cinétique d’un gaz parfait
+- [:x:] [CCS 2018](https://www.concours-centrale-supelec.fr/CentraleSupelec/2018/Multi/sujets/I003.pdf "Sujet CCS 2018") : Simulation de la cinétique d’un gaz parfait
 
-- [CCS 2017](https://www.concours-centrale-supelec.fr/CentraleSupelec/2017/Multi/sujets/2014-028.pdf "Sujet CCS 2017") : Mars Exploration Rovers - Mission d’exploration martienne
+- [:large_orange_diamond:] [CCS 2017](https://www.concours-centrale-supelec.fr/CentraleSupelec/2017/Multi/sujets/2014-028.pdf "Sujet CCS 2017") : Mars Exploration Rovers - Mission d’exploration martienne
 
-- [CCS 2016](https://www.concours-centrale-supelec.fr/CentraleSupelec/2016/Multi/sujets/2015-020.pdf "Sujet CCS 2016") : Prévention des collisions aériennes
+- [:x:] [CCS 2016](https://www.concours-centrale-supelec.fr/CentraleSupelec/2016/Multi/sujets/2015-020.pdf "Sujet CCS 2016") : Prévention des collisions aériennes
 
-- [CCS 2015](https://www.concours-centrale-supelec.fr/CentraleSupelec/2015/Multi/sujets/2014-030.pdf "Sujet CCS 2015") : Autour de la dynamique gravitationnelle
+- [:x:] [CCS 2015](https://www.concours-centrale-supelec.fr/CentraleSupelec/2015/Multi/sujets/2014-030.pdf "Sujet CCS 2015") : Autour de la dynamique gravitationnelle
 
 ## Concours Commun Polytechniques
 
@@ -41,10 +41,10 @@ Langages utilisés : Python 3 (et Scilab dans les anciens sujets)
 
 ### Historique des sujets :
 
-- [CCP 2018](https://ccp.scei-concours.fr/cpge/sujet/2018/TSI/TSI-Info.pdf "Sujet CCP 2018") : Optimisation d'un correcteur PID par un algorithme génétique
+- [:x:] [CCP 2018](https://ccp.scei-concours.fr/cpge/sujet/2018/TSI/TSI-Info.pdf "Sujet CCP 2018") : Optimisation d'un correcteur PID par un algorithme génétique
 
-- [CCP 2017](https://ccp.scei-concours.fr/cpge/sujet/2017/TSI/TSI-Info.pdf "Sujet CCP 2017") : Conception d'une application sportive "Rugby Manager"
+- [:x:] [CCP 2017](https://ccp.scei-concours.fr/cpge/sujet/2017/TSI/TSI-Info.pdf "Sujet CCP 2017") : Conception d'une application sportive "Rugby Manager"
 
-- [CCP 2016](https://ccp.scei-concours.fr/cpge/sujet/2016/TSI/TSI-Info.pdf "Sujet CCP 2016") : Gestion de déchetteries
+- [:x:] [CCP 2016](https://ccp.scei-concours.fr/cpge/sujet/2016/TSI/TSI-Info.pdf "Sujet CCP 2016") : Gestion de déchetteries
 
-- [CCP 2015](https://ccp.scei-concours.fr/cpge/sujet/2015/TSI/TSI-Info.pdf "Sujet CCP 2015") : Acquisition et exploitation d'un déplacement à partir d'un récepteur GPS
+- [:x:] [CCP 2015](https://ccp.scei-concours.fr/cpge/sujet/2015/TSI/TSI-Info.pdf "Sujet CCP 2015") : Acquisition et exploitation d'un déplacement à partir d'un récepteur GPS
