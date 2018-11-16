@@ -9,6 +9,14 @@ Pour les concours, basez-vous uniquement sur les informations fournies par CCP e
 
 [Site de CCS](https://www.concours-centrale-supelec.fr/ "Site de CCS")
 
+Avancement des corrigés :
+
+- [:heavy_check_mark:] Terminée
+
+- [:large_orange_diamond:] En cours
+
+- [:x:] A faire
+
 ## Concours Centrale Supélec
 
 L'épreuve est d'une durée de 3 heures.
