@@ -21,7 +21,7 @@ Status des corrections :
 
 L'épreuve est d'une durée de 3 heures.
 
-Langages utilisés : Python 3, SQL
+Langages utilisés : **Python 3, SQL**
 
 ### Historique des sujets :
 
