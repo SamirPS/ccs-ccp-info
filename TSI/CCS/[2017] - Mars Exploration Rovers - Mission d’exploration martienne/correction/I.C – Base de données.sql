@@ -1,11 +1,11 @@
 
 I.C.1) Écrire une requête SQL qui donne le numéro de l’exploration en cours, s’il y en a une.
 
-SELECT ...
+SELECT EX_NUM FROM EXPLO WHERE EX_FIN = NULL
 
 I.C.2) Écrire une requête SQL qui donne, pour une exploration dont on connait le numéro, la liste des points d’intérêts de cette exploration avec leurs coordonnées.
 
-SELECT ...
+SELECT PI_X, PI_Y FROM PI WHERE EX_NUM = idexplo
 
 I.C.3) Écrire une requête SQL qui donne la surface, en mètres carrés, de chaque zone déjà explorée par le robot. La zone d’exploration est définie comme le plus petit rectangle qui englobe l’ensemble des points d’intérêts de l’exploration et dont les bords sont parallèles aux axes de référence (axes des abscisse et des ordonnées).
 
