@@ -37,7 +37,7 @@ Langages utilisés : **Python 3, SQL**
 
 L'épreuve est d'une durée de 3 heures.
 
-Langages utilisés : Python 3 (et Scilab dans les anciens sujets)
+Langages utilisés : **Python 3** (et **Scilab** dans les anciens sujets)
 
 ### Historique des sujets :
 
