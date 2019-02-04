@@ -3,9 +3,9 @@
 **:warning: ATTENTION :warning: :**
 
 **Les informations que nous apportons sont données ici à titre purement informatif.
-Pour les concours, basez-vous uniquement sur les informations fournies par CCP et CCS :**
+Pour les concours, basez-vous uniquement sur les informations fournies par CCINP et CCS :**
 
-[Site de CCP](https://ccp.scei-concours.fr "Site de CCP")
+[Site de CCP](http://www.concours-commun-inp.fr/ "Site de CCINP (Anciennement CCP)")
 
 [Site de CCS](https://www.concours-centrale-supelec.fr/ "Site de CCS")
 
@@ -33,7 +33,7 @@ Langages utilisés : **Python 3, SQL**
 
 - [:x:] [CCS 2015](https://www.concours-centrale-supelec.fr/CentraleSupelec/2015/Multi/sujets/2014-030.pdf "Sujet CCS 2015") : Autour de la dynamique gravitationnelle
 
-## Concours Commun Polytechniques
+## Concours Commun INP
 
 L'épreuve est d'une durée de 3 heures.
 
