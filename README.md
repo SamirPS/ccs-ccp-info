@@ -29,7 +29,7 @@ Langages utilisés : **Python 3, SQL**
 
 - [:large_orange_diamond:] [CCS 2017](https://www.concours-centrale-supelec.fr/CentraleSupelec/2017/Multi/sujets/2014-028.pdf "Sujet CCS 2017") : Mars Exploration Rovers - Mission d’exploration martienne
 
-- [:x:] [CCS 2016](https://www.concours-centrale-supelec.fr/CentraleSupelec/2016/Multi/sujets/2015-020.pdf "Sujet CCS 2016") : Prévention des collisions aériennes
+- [:large_orange_diamond:] [CCS 2016](https://www.concours-centrale-supelec.fr/CentraleSupelec/2016/Multi/sujets/2015-020.pdf "Sujet CCS 2016") : Prévention des collisions aériennes
 
 - [:x:] [CCS 2015](https://www.concours-centrale-supelec.fr/CentraleSupelec/2015/Multi/sujets/2014-030.pdf "Sujet CCS 2015") : Autour de la dynamique gravitationnelle
 
