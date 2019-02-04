@@ -5,7 +5,7 @@
 **Les informations que nous apportons sont données ici à titre purement informatif.
 Pour les concours, basez-vous uniquement sur les informations fournies par CCINP et CCS :**
 
-[Site de CCP](http://www.concours-commun-inp.fr/ "Site de CCINP (Anciennement CCP)")
+[Site de CCINP](http://www.concours-commun-inp.fr/ "Site de CCINP") (Anciennement CCP)
 
 [Site de CCS](https://www.concours-centrale-supelec.fr/ "Site de CCS")
 
