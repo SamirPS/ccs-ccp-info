@@ -4,10 +4,24 @@
 # une régulation (liste de n entiers) et qui renvoie une liste de 3 entiers [a, b, c] dans laquelle a est le nombre de
 # vols à leurs niveaux RFL, b le nombre de vols au-dessus de leurs niveaux RFL et c le nombre de vols au-dessous
 # de leurs niveaux RFL.
-
-
-
-
+def nb_vol_par_niveau_relatif(regulation):
+  
+  n=len(regulation)
+  volsniveau=[0,0,0]
+  
+  for i in range(n):
+    
+    if regulation[i]==0:
+      volsniveau[0]+=1
+      
+    elif  regulation[i]==1:
+      volsniveau[1]+=1
+      
+    elif  regulation[i]==2:
+      volsniveau[2]+=1
+  return volsniveau
+      
+    
 # II.B.2) Cout d’une régulation
 # On appelle cout d’une régulation la somme des couts des conflits potentiels que cette régulation engendre.
 
